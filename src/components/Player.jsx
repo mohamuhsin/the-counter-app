@@ -1,4 +1,4 @@
-export default function Player() {
+function Player() {
   return (
     <section id="player">
       <h2>Welcome unknown entity</h2>
@@ -9,3 +9,5 @@ export default function Player() {
     </section>
   );
 }
+
+export default Player;
