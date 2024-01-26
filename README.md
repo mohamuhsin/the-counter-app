@@ -1,1 +1,1 @@
-# Working with refs and protals in react.
+# Refs and Portals in react.
