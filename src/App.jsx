@@ -1,6 +1,6 @@
 import Player from './components/Player.jsx';
 
-function App() {
+export default function App() {
   return (
     <>
       <Player />
@@ -9,4 +9,4 @@ function App() {
   );
 }
 
-export default App;
+
