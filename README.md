@@ -4,4 +4,4 @@ This project demonstrates how to work with refs and portals in react.
 
 This project demonstrates how to work with refs and portals in react.
 
-This project demonstrates how to work with refs and 
+This project demonstrates how to work with refs a
