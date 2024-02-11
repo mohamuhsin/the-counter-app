@@ -2,4 +2,4 @@
 
 This project demonstrates how to work with refs and portals in react.
 
-You have paid UGX 30,0
+You have paid UGX 30
