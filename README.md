@@ -2,4 +2,4 @@
 
  in react.
 
-Exciting update from the Matugga
+Exciting update from the Matu
