@@ -1,1 +1,1 @@
-https://x.com/i/spaces/1lDxLPMYgDQxmhttps://x.c
+https://x.com/i/spaces/1lDxLPMYgDQxmhttps:/
